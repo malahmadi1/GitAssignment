@@ -1,0 +1,6 @@
+a. first one after modifying the README.md 
+   second one after appending the status to status.txt
+   thrid one after creating an answer.txt and before pushing.
+   so the answer is three 
+
+2. 
