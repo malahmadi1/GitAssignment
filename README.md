@@ -1,4 +1,4 @@
-# GitAssignment
+# GitAssignment - My Info.
 Name: Mohammad Alahmadi
 FSUID: mda15e
 CS username: alahmadi
