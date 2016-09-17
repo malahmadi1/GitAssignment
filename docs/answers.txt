@@ -3,4 +3,18 @@ a. first one after modifying the README.md
    thrid one after creating an answer.txt and before pushing.
    so the answer is three 
 
-2. lab lab 
+b. Date:   Thu Sep 15 10:29:34 2016 -0400
+
+c. The file Sword.java was modified one time.
+   The file BasicWeapon.java was added to let Sword.java and other weapon classes inherit from it.
+   The other files such as RoleGame.java, Weapon.java and weaponFactory.java were only added. 
+
+d. While git log show the commit logs, git status show the working tree status. 
+
+e. git show --name-only 871bf6a
+
+f. git log --grep='file'
+
+g. git log --author="Alice" --since="09/01/2016" --until="09/16/2016"
+
+
